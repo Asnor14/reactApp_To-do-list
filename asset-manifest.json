@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactApp_To-do-list/static/css/main.c33b0cee.css",
+    "main.css": "/reactApp_To-do-list/static/css/main.d0bf806c.css",
     "main.js": "/reactApp_To-do-list/static/js/main.e63db7fd.js",
     "static/media/boxicons.svg": "/reactApp_To-do-list/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/boxicons.eot": "/reactApp_To-do-list/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -8,11 +8,11 @@
     "static/media/boxicons.ttf": "/reactApp_To-do-list/static/media/boxicons.db9ddb1898dbd76badca.ttf",
     "static/media/boxicons.woff2": "/reactApp_To-do-list/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "index.html": "/reactApp_To-do-list/index.html",
-    "main.c33b0cee.css.map": "/reactApp_To-do-list/static/css/main.c33b0cee.css.map",
+    "main.d0bf806c.css.map": "/reactApp_To-do-list/static/css/main.d0bf806c.css.map",
     "main.e63db7fd.js.map": "/reactApp_To-do-list/static/js/main.e63db7fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.c33b0cee.css",
+    "static/css/main.d0bf806c.css",
     "static/js/main.e63db7fd.js"
   ]
 }
